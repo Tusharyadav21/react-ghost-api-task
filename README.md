@@ -3,6 +3,8 @@
 #### ReactJS Web app to fetch latest blog stats and issues in Posts content using Ghost Content API real time.
 #### Ghost is a open source CMS used for creating blogs.
 
+#### URL
+## https://ghost-api-task.netlify.app/
 
 
 ## Available Scripts
